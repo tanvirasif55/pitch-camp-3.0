@@ -1,11 +1,17 @@
 @import url("https://fonts.googleapis.com/css2?family=Gochi+Hand&display=swap");
 
 /* color #7240e0 */
+* {
+  font-family: "Raleway", sans-serif;
+}
+hr {
+  width: 120px;
+}
 
 body {
   background: #fff;
   color: #2f3138;
-  font-family: "Gochi Hand", cursive;
+  font-family: "Raleway", sans-serif;
 }
 
 :root {
@@ -68,7 +74,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Gochi Hand", cursive;
+  font-family: "Raleway", sans-serif;
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
@@ -199,7 +205,7 @@ h6 {
   margin: 0;
   padding: 6px 0;
   line-height: 1;
-  font-family: "Gochi Hand", cursive;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   letter-spacing: 3px;
   text-transform: uppercase;
@@ -298,7 +304,7 @@ h6 {
   text-decoration: none;
   display: inline-block;
   color: rgba(202, 206, 221, 0.8);
-  font-family: "Gochi Hand", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 600;
   font-size: 14px;
   outline: none;
@@ -586,7 +592,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #intro h1 {
   color: #fff;
-  font-family: "Gochi Hand", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 56px;
   font-weight: 600;
   text-transform: uppercase;
@@ -677,7 +683,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #intro .about-btn {
-  font-family: "Gochi Hand", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 500;
   font-size: 14px;
   letter-spacing: 1px;
@@ -1017,7 +1023,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   width: 40%;
 }
 .cover {
-  font-family: "Gochi Hand", sans-serif;
+  font-family: "Raleway", sans-serif;
   line-height: 1.5;
   padding: 10px;
   margin: 0;
@@ -1247,7 +1253,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 18px 0;
   display: block;
   position: relative;
-  font-family: "Gochi Hand", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 16px;
   line-height: 24px;
   font-weight: 600;
@@ -1523,7 +1529,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin: 0 0 20px 0;
   padding: 2px 0 2px 0;
   line-height: 1;
-  font-family: "Gochi Hand", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   color: #fff;
 }
@@ -1537,8 +1543,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Gochi Hand";
-  /* font-family: "Raleway", sans-serif; */
+  font-family: "Raleway", sans-serif;
   color: #fff;
 }
 
